@@ -3,7 +3,7 @@
 
 
 
-# Application for recording tasks. This app saves all information locally. -Realm was used to implement saving!
+# Application for recording tasks. This app saves all information locally. REALM was used to implement the save.
 
 
 <img width="359" alt="Screenshot 2023-02-19 at 19 23 40" src="https://user-images.githubusercontent.com/70901661/219953731-d1b8588e-daee-46c1-b867-727f4d455ac0.png">
